@@ -77,12 +77,18 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuddasirHayat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=3b82f6&text_color=e5e7eb" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuddasirHayat&theme=tokyonight&hide_border=true&background=0D1117&stroke=3b82f6&ring=a855f7&fire=ec4899&currStreakLabel=e5e7eb" alt="GitHub Streak" height="170"/>
+  <a href="https://github.com/MuddasirHayat">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuddasirHayat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899&text_color=e5e7eb&ring_color=3b82f6" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/MuddasirHayat">
+    <img src="https://streak-stats.demolab.com/?user=MuddasirHayat&theme=radical&hide_border=true&background=0D1117&stroke=3b82f6&ring=a855f7&fire=ec4899&currStreakLabel=e5e7eb" alt="GitHub Streak" height="180"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuddasirHayat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=e5e7eb" alt="Top Languages" height="170"/>
+  <a href="https://github.com/MuddasirHayat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuddasirHayat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=e5e7eb&langs_count=8" alt="Top Languages" height="180"/>
+  </a>
 </p>
 
 ---
