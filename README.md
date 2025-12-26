@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="YOUR_ANIMATED_BANNER_GIF_URL_HERE" alt="Futuristic Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muddasir%20Hayat&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header Banner" width="100%"/>
 </div>
 
 <!-- Intro Section -->
@@ -33,7 +33,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="YOUR_DEVELOPER_ILLUSTRATION_GIF_URL_HERE" alt="Developer Illustration" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Developer Illustration" width="400"/>
 
 </td>
 </tr>
