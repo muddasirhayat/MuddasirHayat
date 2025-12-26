@@ -74,22 +74,23 @@
 ---
 
 <!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/MuddasirHayat">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuddasirHayat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899&text_color=e5e7eb&ring_color=3b82f6" alt="GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/MuddasirHayat">
-    <img src="https://streak-stats.demolab.com/?user=MuddasirHayat&theme=radical&hide_border=true&background=0D1117&stroke=3b82f6&ring=a855f7&fire=ec4899&currStreakLabel=e5e7eb" alt="GitHub Streak" height="180"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuddasirHayat&theme=react-dark&hide_border=true&bg_color=0D1117&color=a855f7&line=3b82f6&point=ec4899&area=true" alt="Contribution Graph" width="95%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MuddasirHayat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuddasirHayat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=e5e7eb&langs_count=8" alt="Top Languages" height="180"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuddasirHayat&theme=radical" alt="Profile Summary" width="95%"/>
 </p>
+
+<details align="center">
+<summary>📈 More Stats</summary>
+<br>
+
+![](https://raw.githubusercontent.com/MuddasirHayat/MuddasirHayat/output/github-contribution-grid-snake-dark.svg)
+
+</details>
 
 ---
 
