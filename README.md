@@ -1,9 +1,5 @@
-<!-- ===================== -->
-<!-- Muddasir Hayat GitHub Profile README -->
-<!-- ===================== -->
-
 <p align="center">
-  <img src="https://i.ibb.co/N9f8L3D/banner.png" alt="Banner" width="100%">
+  <img src="https://i.ibb.co/animated-threejs-banner.gif" alt="Animated Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Muddasir Hayat</h1>
@@ -21,11 +17,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Frontend Projects with React**  
-- 🌱 Improving skills in **Advanced React, Tailwind, and Motion Design**  
-- 💬 Ask me about **JavaScript, UI/UX, Animations**  
+- 🔭 Currently working on **Frontend Projects with React & Motion Design**  
+- 🌱 Improving skills in **Advanced React & Three.js Animations**  
+- 💬 Ask me about **JavaScript, UI/UX, Motion Graphics**  
 - 📫 Reach me at **mhsons2025@gmail.com**  
-- ⚡ Fun fact: I love **smooth, clean interfaces and performance-focused code**
+- ⚡ Fun fact: I love **magical UI with fluid motion and performance**
 
 ### 🌐 Connect with me
 <p align="left">
@@ -49,7 +45,7 @@
 </td>
 
 <td width="40%" align="center" valign="middle">
-  <img src="https://i.ibb.co/5R0C1S7/frontend-dev.png" alt="Frontend Developer" width="280"/>
+  <img src="https://i.ibb.co/animated-threejs-dev.gif" alt="Three.js Developer Animation" width="280"/>
 </td>
 </tr>
 </table>
@@ -67,11 +63,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuddasirHayat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuddasirHayat&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuddasirHayat&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuddasirHayat&theme=radical" />
 </p>
 
 ---
@@ -79,15 +75,10 @@
 ### 🧠 Philosophy
 
 > **Innovate · Create · Deliver**  
-> Code is not just logic — it’s communication.
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐
-</p>
+> Code is not just logic — it’s magical communication ✨
 
 ---
 
 ### ⚡ MERN Stack (Coming Soon)
 Currently focused on frontend, MERN stack projects are **in progress** 🚀
+
