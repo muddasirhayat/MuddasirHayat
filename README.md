@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner-placeholder.png" alt="Banner" width="100%">
+  <img src="https://i.ibb.co/N9f8L3D/banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Muddasir Hayat</h1>
@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ### 👨‍💻 About Me
 
@@ -48,8 +48,8 @@
 
 </td>
 
-<td width="40%" align="center">
-  <img src="https://illustrations.popsy.co/gray/frontend-developer.svg" width="300"/>
+<td width="40%" align="center" valign="middle">
+  <img src="https://i.ibb.co/5R0C1S7/frontend-dev.png" alt="Frontend Developer" width="280"/>
 </td>
 </tr>
 </table>
