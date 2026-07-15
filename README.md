@@ -15,8 +15,8 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h2>Full Stack Engineer Crafting AI-Powered Solutions</h2>
-  <p style="max-width: 800px; margin: 0 auto; font-size: 16px; line-height: 1.8; color: #cbd5e1;">
+  <h2 style="font-size: 32px; color: #ffffff; margin-bottom: 16px;">Full Stack Engineer Crafting AI-Powered Solutions</h2>
+  <p style="max-width: 800px; margin: 0 auto; font-size: 16px; line-height: 1.8; color: #d1d5db;">
     I build modern web applications with clean architecture and excellent user experience. Passionate about AI integration, open-source development, and creating tools that solve real problems. Currently focused on building intelligent solutions that bridge the gap between technology and user needs.
   </p>
 </div>
@@ -25,20 +25,20 @@
 <br>
 
 <!-- Bento Grid Dashboard -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 0 auto; max-width: 1200px; padding: 0 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 32px; margin: 0 auto; max-width: 1200px; padding: 0 20px;">
 
 <!-- Card 1: About -->
-<div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
-  <h3 style="color: #38BDF8; font-size: 18px; margin-bottom: 12px;">About</h3>
-  <p style="color: #cbd5e1; font-size: 14px; line-height: 1.6; margin: 0;">
+<div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #ffffff; font-size: 18px; margin-bottom: 12px; font-weight: 600;">About</h3>
+  <p style="color: #d1d5db; font-size: 15px; line-height: 1.6; margin: 0;">
     Based in Pakistan, building software that makes an impact. Focused on clean code, scalable architecture, and creating user-centered experiences.
   </p>
 </div>
 
 <!-- Card 2: Current Focus -->
-<div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
-  <h3 style="color: #38BDF8; font-size: 18px; margin-bottom: 12px;">Current Focus</h3>
-  <ul style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0; padding-left: 20px;">
+<div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #ffffff; font-size: 18px; margin-bottom: 12px; font-weight: 600;">Current Focus</h3>
+  <ul style="color: #d1d5db; font-size: 15px; line-height: 1.8; margin: 0; padding-left: 20px;">
     <li>AI Integration & LLM Applications</li>
     <li>Full Stack Web Development</li>
     <li>Open Source Contributions</li>
@@ -46,20 +46,20 @@
 </div>
 
 <!-- Card 3: Currently Building -->
-<div style="border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(17, 24, 39, 0.98)); backdrop-filter: blur(10px); transition: all 0.3s ease; grid-column: span 1;">
-  <h3 style="color: #8B5CF6; font-size: 18px; margin-bottom: 12px;">Building Now</h3>
-  <p style="color: #cbd5e1; font-size: 14px; line-height: 1.6; margin: 0; font-weight: 500;">
+<div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); transition: all 0.3s ease; grid-column: span 1;">
+  <h3 style="color: #ffffff; font-size: 18px; margin-bottom: 12px; font-weight: 600;">Building Now</h3>
+  <p style="color: #d1d5db; font-size: 15px; line-height: 1.6; margin: 0; font-weight: 500;">
     🚀 <strong>Capverse</strong>
   </p>
-  <p style="color: #94a3b8; font-size: 13px; margin-top: 8px; margin-bottom: 0;">
+  <p style="color: #9ca3af; font-size: 14px; margin-top: 8px; margin-bottom: 0;">
     AI-powered caption generation for content creators
   </p>
 </div>
 
 <!-- Card 4: Learning -->
-<div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
-  <h3 style="color: #38BDF8; font-size: 18px; margin-bottom: 12px;">Learning</h3>
-  <ul style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0; padding-left: 20px;">
+<div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #ffffff; font-size: 18px; margin-bottom: 12px; font-weight: 600;">Learning</h3>
+  <ul style="color: #d1d5db; font-size: 15px; line-height: 1.8; margin: 0; padding-left: 20px;">
     <li>Advanced AI/ML Architecture</li>
     <li>System Design & Scalability</li>
     <li>Cloud Infrastructure</li>
@@ -67,17 +67,17 @@
 </div>
 
 <!-- Card 5: Open Source -->
-<div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
-  <h3 style="color: #38BDF8; font-size: 18px; margin-bottom: 12px;">Open Source</h3>
-  <p style="color: #cbd5e1; font-size: 14px; line-height: 1.6; margin: 0;">
+<div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #ffffff; font-size: 18px; margin-bottom: 12px; font-weight: 600;">Open Source</h3>
+  <p style="color: #d1d5db; font-size: 15px; line-height: 1.6; margin: 0;">
     Active contributor to open-source projects. Believer in sharing knowledge and building community-driven solutions.
   </p>
 </div>
 
 <!-- Card 6: Tech Stack Summary -->
-<div style="border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(17, 24, 39, 0.98)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
-  <h3 style="color: #8B5CF6; font-size: 18px; margin-bottom: 12px;">Tech Stack</h3>
-  <p style="color: #cbd5e1; font-size: 13px; line-height: 1.6; margin: 0;">
+<div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #ffffff; font-size: 18px; margin-bottom: 12px; font-weight: 600;">Tech Stack</h3>
+  <p style="color: #d1d5db; font-size: 14px; line-height: 1.6; margin: 0;">
     TypeScript • React • Next.js • Node.js • Express • Tailwind CSS • Prisma • PostgreSQL • Firebase • AI/ML
   </p>
 </div>
@@ -96,9 +96,9 @@
 
 <!-- Featured Project: Capverse -->
 <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
-  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px;">Featured Project</h2>
+  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px; font-size: 32px;">Featured Project</h2>
   
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; border-radius: 16px; border: 1px solid rgba(37, 99, 235, 0.2); padding: 40px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.8), rgba(17, 24, 39, 0.9));">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.1); padding: 48px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px);">
     
     <!-- Left: Image -->
     <div style="text-align: center;">
@@ -107,18 +107,18 @@
 
     <!-- Right: Details -->
     <div>
-      <h3 style="color: #2563EB; font-size: 28px; margin-bottom: 8px;">Capverse</h3>
-      <p style="color: #38BDF8; font-size: 14px; margin-bottom: 16px; font-weight: 500;">
+      <h3 style="color: #ffffff; font-size: 28px; margin-bottom: 8px; font-weight: 600;">Capverse</h3>
+      <p style="color: #d1d5db; font-size: 15px; margin-bottom: 16px; font-weight: 500;">
         🏆 AI Caption Generation Platform • Open Source
       </p>
       
-      <p style="color: #cbd5e1; font-size: 15px; line-height: 1.7; margin-bottom: 20px;">
+      <p style="color: #d1d5db; font-size: 15px; line-height: 1.7; margin-bottom: 20px;">
         Capverse is an intelligent caption generation platform that leverages cutting-edge AI to create engaging, SEO-optimized captions for content creators. Built with modern web technologies and designed for scale.
       </p>
 
       <div style="margin-bottom: 20px;">
-        <p style="color: #94a3b8; font-size: 13px; font-weight: 600; margin-bottom: 10px; text-transform: uppercase;">Key Features</p>
-        <ul style="color: #cbd5e1; font-size: 14px; line-height: 2; margin: 0; padding-left: 20px;">
+        <p style="color: #9ca3af; font-size: 13px; font-weight: 600; margin-bottom: 10px; text-transform: uppercase;">Key Features</p>
+        <ul style="color: #d1d5db; font-size: 15px; line-height: 2; margin: 0; padding-left: 20px;">
           <li>AI-powered caption generation with multiple styles</li>
           <li>Real-time processing and optimization</li>
           <li>Multi-language support</li>
@@ -127,13 +127,13 @@
       </div>
 
       <div style="margin-bottom: 20px;">
-        <p style="color: #94a3b8; font-size: 13px; font-weight: 600; margin-bottom: 10px; text-transform: uppercase;">Tech Stack</p>
-        <p style="color: #cbd5e1; font-size: 14px; margin: 0;">
+        <p style="color: #9ca3af; font-size: 13px; font-weight: 600; margin-bottom: 10px; text-transform: uppercase;">Tech Stack</p>
+        <p style="color: #d1d5db; font-size: 15px; margin: 0;">
           Next.js • React • TypeScript • OpenAI API • TailwindCSS • Prisma • PostgreSQL
         </p>
       </div>
 
-      <a href="https://github.com/muddasirhayat/capverse" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #2563EB, #38BDF8); color: white; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; transition: all 0.3s ease; border: none; cursor: pointer;">
+      <a href="https://github.com/muddasirhayat/capverse" style="display: inline-block; padding: 12px 24px; background: rgba(255, 255, 255, 0.15); color: #ffffff; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; transition: all 0.3s ease; border: 1px solid rgba(255, 255, 255, 0.2); cursor: pointer;">
         View on GitHub →
       </a>
     </div>
@@ -153,39 +153,39 @@
 
 <!-- Other Projects -->
 <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
-  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px;">Other Projects</h2>
+  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px; font-size: 32px;">Other Projects</h2>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 32px;">
 
     <!-- Project: Portfolio -->
     <a href="https://github.com/muddasirhayat" style="text-decoration: none; display: block; transition: all 0.3s ease;">
-      <div style="border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); transition: all 0.3s ease; height: 100%;">
-        <img src="assets/projects/projects/portfolio.svg" alt="Portfolio" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(139, 92, 246, 0.2);"/>
+      <div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; overflow: hidden; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); transition: all 0.3s ease; height: 100%;">
+        <img src="assets/projects/projects/portfolio.svg" alt="Portfolio" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(255, 255, 255, 0.1);"/>
         <div style="padding: 20px;">
-          <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0;">Portfolio</h4>
-          <p style="color: #94a3b8; font-size: 13px; line-height: 1.5; margin: 0;">Personal portfolio showcasing projects and experience</p>
+          <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0; font-weight: 600;">Portfolio</h4>
+          <p style="color: #9ca3af; font-size: 14px; line-height: 1.5; margin: 0;">Personal portfolio showcasing projects and experience</p>
         </div>
       </div>
     </a>
 
     <!-- Project: Currency Converter -->
     <a href="https://github.com/muddasirhayat" style="text-decoration: none; display: block; transition: all 0.3s ease;">
-      <div style="border: 1px solid rgba(56, 189, 248, 0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); transition: all 0.3s ease; height: 100%;">
-        <img src="assets/projects/projects/currency.svg" alt="Currency Converter" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(56, 189, 248, 0.2);"/>
+      <div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; overflow: hidden; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); transition: all 0.3s ease; height: 100%;">
+        <img src="assets/projects/projects/currency.svg" alt="Currency Converter" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(255, 255, 255, 0.1);"/>
         <div style="padding: 20px;">
-          <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0;">Currency Converter</h4>
-          <p style="color: #94a3b8; font-size: 13px; line-height: 1.5; margin: 0;">Real-time currency exchange with live rates</p>
+          <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0; font-weight: 600;">Currency Converter</h4>
+          <p style="color: #9ca3af; font-size: 14px; line-height: 1.5; margin: 0;">Real-time currency exchange with live rates</p>
         </div>
       </div>
     </a>
 
     <!-- Project: Tic Tac Toe -->
     <a href="https://github.com/muddasirhayat" style="text-decoration: none; display: block; transition: all 0.3s ease;">
-      <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); transition: all 0.3s ease; height: 100%;">
-        <img src="assets/projects/projects/tictactoe.svg" alt="Tic Tac Toe AI" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(37, 99, 235, 0.2);"/>
+      <div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; overflow: hidden; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); transition: all 0.3s ease; height: 100%;">
+        <img src="assets/projects/projects/tictactoe.svg" alt="Tic Tac Toe AI" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(255, 255, 255, 0.1);"/>
         <div style="padding: 20px;">
-          <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0;">Tic Tac Toe AI</h4>
-          <p style="color: #94a3b8; font-size: 13px; line-height: 1.5; margin: 0;">Interactive game using Minimax algorithm</p>
+          <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0; font-weight: 600;">Tic Tac Toe AI</h4>
+          <p style="color: #9ca3af; font-size: 14px; line-height: 1.5; margin: 0;">Interactive game using Minimax algorithm</p>
         </div>
       </div>
     </a>
@@ -205,54 +205,54 @@
 
 <!-- Tech Stack Detailed -->
 <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
-  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px;">Technical Expertise</h2>
+  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px; font-size: 32px;">Technical Expertise</h2>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 32px;">
 
     <!-- Category: Frontend -->
-    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
-      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Frontend</h3>
-      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+    <div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Frontend</h3>
+      <p style="color: #d1d5db; font-size: 14px; line-height: 1.8; margin: 0;">
         React • Next.js • TypeScript • TailwindCSS • HTML5 • CSS3 • JavaScript ES6+ • Responsive Design • Performance Optimization
       </p>
     </div>
 
     <!-- Category: Backend -->
-    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
-      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Backend</h3>
-      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+    <div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Backend</h3>
+      <p style="color: #d1d5db; font-size: 14px; line-height: 1.8; margin: 0;">
         Node.js • Express • REST APIs • GraphQL • Authentication • Authorization • Middleware • Error Handling
       </p>
     </div>
 
     <!-- Category: Database & ORM -->
-    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
-      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Database</h3>
-      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+    <div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Database</h3>
+      <p style="color: #d1d5db; font-size: 14px; line-height: 1.8; margin: 0;">
         PostgreSQL • MongoDB • Firebase • Prisma • SQL • NoSQL • Data Modeling • Query Optimization
       </p>
     </div>
 
     <!-- Category: AI/ML -->
-    <div style="border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(17, 24, 39, 0.98));">
-      <h3 style="color: #8B5CF6; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">AI/ML</h3>
-      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+    <div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">AI/ML</h3>
+      <p style="color: #d1d5db; font-size: 14px; line-height: 1.8; margin: 0;">
         OpenAI API • LLM Integration • AI Prompt Engineering • ML Basics • Natural Language Processing
       </p>
     </div>
 
     <!-- Category: Cloud & DevOps -->
-    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
-      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Cloud & DevOps</h3>
-      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+    <div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Cloud & DevOps</h3>
+      <p style="color: #d1d5db; font-size: 14px; line-height: 1.8; margin: 0;">
         Vercel • Firebase • GitHub • Git • Docker • CI/CD • Environment Management • Deployment
       </p>
     </div>
 
     <!-- Category: Tools & Practices -->
-    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
-      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Tools & Practices</h3>
-      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+    <div style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 32px; background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px);">
+      <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Tools & Practices</h3>
+      <p style="color: #d1d5db; font-size: 14px; line-height: 1.8; margin: 0;">
         VS Code • Linux • Figma • npm • Debugging • Testing • Code Review • Documentation • Clean Code
       </p>
     </div>
@@ -272,7 +272,7 @@
 
 <!-- GitHub Analytics -->
 <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
-  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px;">GitHub Activity</h2>
+  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px; font-size: 32px;">GitHub Activity</h2>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin-bottom: 40px;">
 
