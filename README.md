@@ -102,7 +102,7 @@
     
     <!-- Left: Image -->
     <div style="text-align: center;">
-      <img src="assets/projects/capverse.svg" alt="Capverse" style="width: 100%; max-width: 280px; border-radius: 12px;"/>
+      <img src="assets/projects/projects/capverse.svg" alt="Capverse" style="width: 100%; max-width: 280px; border-radius: 12px;"/>
     </div>
 
     <!-- Right: Details -->
@@ -160,7 +160,7 @@
     <!-- Project: Portfolio -->
     <a href="https://github.com/muddasirhayat" style="text-decoration: none; display: block; transition: all 0.3s ease;">
       <div style="border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); transition: all 0.3s ease; height: 100%;">
-        <img src="assets/projects/portfolio.svg" alt="Portfolio" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(139, 92, 246, 0.2);"/>
+        <img src="assets/projects/projects/portfolio.svg" alt="Portfolio" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(139, 92, 246, 0.2);"/>
         <div style="padding: 20px;">
           <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0;">Portfolio</h4>
           <p style="color: #94a3b8; font-size: 13px; line-height: 1.5; margin: 0;">Personal portfolio showcasing projects and experience</p>
@@ -171,7 +171,7 @@
     <!-- Project: Currency Converter -->
     <a href="https://github.com/muddasirhayat" style="text-decoration: none; display: block; transition: all 0.3s ease;">
       <div style="border: 1px solid rgba(56, 189, 248, 0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); transition: all 0.3s ease; height: 100%;">
-        <img src="assets/projects/currency.svg" alt="Currency Converter" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(56, 189, 248, 0.2);"/>
+        <img src="assets/projects/projects/currency.svg" alt="Currency Converter" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(56, 189, 248, 0.2);"/>
         <div style="padding: 20px;">
           <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0;">Currency Converter</h4>
           <p style="color: #94a3b8; font-size: 13px; line-height: 1.5; margin: 0;">Real-time currency exchange with live rates</p>
@@ -182,7 +182,7 @@
     <!-- Project: Tic Tac Toe -->
     <a href="https://github.com/muddasirhayat" style="text-decoration: none; display: block; transition: all 0.3s ease;">
       <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); transition: all 0.3s ease; height: 100%;">
-        <img src="assets/projects/tictactoe.svg" alt="Tic Tac Toe AI" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(37, 99, 235, 0.2);"/>
+        <img src="assets/projects/projects/tictactoe.svg" alt="Tic Tac Toe AI" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(37, 99, 235, 0.2);"/>
         <div style="padding: 20px;">
           <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0;">Tic Tac Toe AI</h4>
           <p style="color: #94a3b8; font-size: 13px; line-height: 1.5; margin: 0;">Interactive game using Minimax algorithm</p>
