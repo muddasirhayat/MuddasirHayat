@@ -1,103 +1,340 @@
-
+<!-- Hero Section -->
 <div align="center">
+  <img src="assets/hero.svg" alt="Muhammad Muddasir Hayat - Full Stack Engineer" width="100%" max-width="1200"/>
+</div>
 
-# 👋 Muhammad Muddasir Hayat
+<br>
+<br>
 
-### Full Stack Engineer • AI Applications • Open Source
+<!-- Divider -->
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" max-width="1200"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=6AD3FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications;Next.js+%7C+React+%7C+TypeScript;Open+Source+Builder;Always+Learning+Something+New" />
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=MUDDASIR%20HAYAT&fontColor=ffffff&fontSize=46&animation=fadeIn"/>
+<!-- Introduction -->
+<div align="center">
+  <h2>Full Stack Engineer Crafting AI-Powered Solutions</h2>
+  <p style="max-width: 800px; margin: 0 auto; font-size: 16px; line-height: 1.8; color: #cbd5e1;">
+    I build modern web applications with clean architecture and excellent user experience. Passionate about AI integration, open-source development, and creating tools that solve real problems. Currently focused on building intelligent solutions that bridge the gap between technology and user needs.
+  </p>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=muddasirhayat&style=for-the-badge&color=0e75b6"/>
+<br>
+<br>
+
+<!-- Bento Grid Dashboard -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 0 auto; max-width: 1200px; padding: 0 20px;">
+
+<!-- Card 1: About -->
+<div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #38BDF8; font-size: 18px; margin-bottom: 12px;">About</h3>
+  <p style="color: #cbd5e1; font-size: 14px; line-height: 1.6; margin: 0;">
+    Based in Pakistan, building software that makes an impact. Focused on clean code, scalable architecture, and creating user-centered experiences.
+  </p>
+</div>
+
+<!-- Card 2: Current Focus -->
+<div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #38BDF8; font-size: 18px; margin-bottom: 12px;">Current Focus</h3>
+  <ul style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0; padding-left: 20px;">
+    <li>AI Integration & LLM Applications</li>
+    <li>Full Stack Web Development</li>
+    <li>Open Source Contributions</li>
+  </ul>
+</div>
+
+<!-- Card 3: Currently Building -->
+<div style="border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(17, 24, 39, 0.98)); backdrop-filter: blur(10px); transition: all 0.3s ease; grid-column: span 1;">
+  <h3 style="color: #8B5CF6; font-size: 18px; margin-bottom: 12px;">Building Now</h3>
+  <p style="color: #cbd5e1; font-size: 14px; line-height: 1.6; margin: 0; font-weight: 500;">
+    🚀 <strong>Capverse</strong>
+  </p>
+  <p style="color: #94a3b8; font-size: 13px; margin-top: 8px; margin-bottom: 0;">
+    AI-powered caption generation for content creators
+  </p>
+</div>
+
+<!-- Card 4: Learning -->
+<div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #38BDF8; font-size: 18px; margin-bottom: 12px;">Learning</h3>
+  <ul style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0; padding-left: 20px;">
+    <li>Advanced AI/ML Architecture</li>
+    <li>System Design & Scalability</li>
+    <li>Cloud Infrastructure</li>
+  </ul>
+</div>
+
+<!-- Card 5: Open Source -->
+<div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #38BDF8; font-size: 18px; margin-bottom: 12px;">Open Source</h3>
+  <p style="color: #cbd5e1; font-size: 14px; line-height: 1.6; margin: 0;">
+    Active contributor to open-source projects. Believer in sharing knowledge and building community-driven solutions.
+  </p>
+</div>
+
+<!-- Card 6: Tech Stack Summary -->
+<div style="border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(17, 24, 39, 0.98)); backdrop-filter: blur(10px); transition: all 0.3s ease;">
+  <h3 style="color: #8B5CF6; font-size: 18px; margin-bottom: 12px;">Tech Stack</h3>
+  <p style="color: #cbd5e1; font-size: 13px; line-height: 1.6; margin: 0;">
+    TypeScript • React • Next.js • Node.js • Express • Tailwind CSS • Prisma • PostgreSQL • Firebase • AI/ML
+  </p>
+</div>
 
 </div>
 
----
+<br>
+<br>
 
-# 🚀 About
-
-```ts
-const muddasir = {
-  role: "Full Stack Engineer",
-  location: "Pakistan",
-  currentlyBuilding: "Capverse",
-  focus: [
-    "AI Applications",
-    "Next.js",
-    "TypeScript",
-    "Developer Tools",
-    "Open Source"
-  ]
-}
-```
-
----
-
-# 🧰 Tech Stack
-
+<!-- Divider -->
 <div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" max-width="1200"/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,prisma,sqlite,firebase,wordpress,git,github,figma,vscode,vercel,linux&perline=9"/>
+<br>
+
+<!-- Featured Project: Capverse -->
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px;">Featured Project</h2>
+  
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; border-radius: 16px; border: 1px solid rgba(37, 99, 235, 0.2); padding: 40px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.8), rgba(17, 24, 39, 0.9));">
+    
+    <!-- Left: Image -->
+    <div style="text-align: center;">
+      <img src="assets/projects/capverse.svg" alt="Capverse" style="width: 100%; max-width: 280px; border-radius: 12px;"/>
+    </div>
+
+    <!-- Right: Details -->
+    <div>
+      <h3 style="color: #2563EB; font-size: 28px; margin-bottom: 8px;">Capverse</h3>
+      <p style="color: #38BDF8; font-size: 14px; margin-bottom: 16px; font-weight: 500;">
+        🏆 AI Caption Generation Platform • Open Source
+      </p>
+      
+      <p style="color: #cbd5e1; font-size: 15px; line-height: 1.7; margin-bottom: 20px;">
+        Capverse is an intelligent caption generation platform that leverages cutting-edge AI to create engaging, SEO-optimized captions for content creators. Built with modern web technologies and designed for scale.
+      </p>
+
+      <div style="margin-bottom: 20px;">
+        <p style="color: #94a3b8; font-size: 13px; font-weight: 600; margin-bottom: 10px; text-transform: uppercase;">Key Features</p>
+        <ul style="color: #cbd5e1; font-size: 14px; line-height: 2; margin: 0; padding-left: 20px;">
+          <li>AI-powered caption generation with multiple styles</li>
+          <li>Real-time processing and optimization</li>
+          <li>Multi-language support</li>
+          <li>Community-driven open source project</li>
+        </ul>
+      </div>
+
+      <div style="margin-bottom: 20px;">
+        <p style="color: #94a3b8; font-size: 13px; font-weight: 600; margin-bottom: 10px; text-transform: uppercase;">Tech Stack</p>
+        <p style="color: #cbd5e1; font-size: 14px; margin: 0;">
+          Next.js • React • TypeScript • OpenAI API • TailwindCSS • Prisma • PostgreSQL
+        </p>
+      </div>
+
+      <a href="https://github.com/muddasirhayat/capverse" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #2563EB, #38BDF8); color: white; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; transition: all 0.3s ease; border: none; cursor: pointer;">
+        View on GitHub →
+      </a>
+    </div>
+
+  </div>
+</div>
+
+<br>
+<br>
+
+<!-- Divider -->
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" max-width="1200"/>
+</div>
+
+<br>
+
+<!-- Other Projects -->
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px;">Other Projects</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px;">
+
+    <!-- Project: Portfolio -->
+    <a href="https://github.com/muddasirhayat" style="text-decoration: none; display: block; transition: all 0.3s ease;">
+      <div style="border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); transition: all 0.3s ease; height: 100%;">
+        <img src="assets/projects/portfolio.svg" alt="Portfolio" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(139, 92, 246, 0.2);"/>
+        <div style="padding: 20px;">
+          <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0;">Portfolio</h4>
+          <p style="color: #94a3b8; font-size: 13px; line-height: 1.5; margin: 0;">Personal portfolio showcasing projects and experience</p>
+        </div>
+      </div>
+    </a>
+
+    <!-- Project: Currency Converter -->
+    <a href="https://github.com/muddasirhayat" style="text-decoration: none; display: block; transition: all 0.3s ease;">
+      <div style="border: 1px solid rgba(56, 189, 248, 0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); transition: all 0.3s ease; height: 100%;">
+        <img src="assets/projects/currency.svg" alt="Currency Converter" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(56, 189, 248, 0.2);"/>
+        <div style="padding: 20px;">
+          <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0;">Currency Converter</h4>
+          <p style="color: #94a3b8; font-size: 13px; line-height: 1.5; margin: 0;">Real-time currency exchange with live rates</p>
+        </div>
+      </div>
+    </a>
+
+    <!-- Project: Tic Tac Toe -->
+    <a href="https://github.com/muddasirhayat" style="text-decoration: none; display: block; transition: all 0.3s ease;">
+      <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95)); transition: all 0.3s ease; height: 100%;">
+        <img src="assets/projects/tictactoe.svg" alt="Tic Tac Toe AI" style="width: 100%; height: 200px; object-fit: cover; border-bottom: 1px solid rgba(37, 99, 235, 0.2);"/>
+        <div style="padding: 20px;">
+          <h4 style="color: #ffffff; font-size: 16px; margin: 0 0 8px 0;">Tic Tac Toe AI</h4>
+          <p style="color: #94a3b8; font-size: 13px; line-height: 1.5; margin: 0;">Interactive game using Minimax algorithm</p>
+        </div>
+      </div>
+    </a>
+
+  </div>
+</div>
+
+<br>
+<br>
+
+<!-- Divider -->
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" max-width="1200"/>
+</div>
+
+<br>
+
+<!-- Tech Stack Detailed -->
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px;">Technical Expertise</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+
+    <!-- Category: Frontend -->
+    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
+      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Frontend</h3>
+      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+        React • Next.js • TypeScript • TailwindCSS • HTML5 • CSS3 • JavaScript ES6+ • Responsive Design • Performance Optimization
+      </p>
+    </div>
+
+    <!-- Category: Backend -->
+    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
+      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Backend</h3>
+      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+        Node.js • Express • REST APIs • GraphQL • Authentication • Authorization • Middleware • Error Handling
+      </p>
+    </div>
+
+    <!-- Category: Database & ORM -->
+    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
+      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Database</h3>
+      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+        PostgreSQL • MongoDB • Firebase • Prisma • SQL • NoSQL • Data Modeling • Query Optimization
+      </p>
+    </div>
+
+    <!-- Category: AI/ML -->
+    <div style="border: 1px solid rgba(139, 92, 246, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(17, 24, 39, 0.98));">
+      <h3 style="color: #8B5CF6; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">AI/ML</h3>
+      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+        OpenAI API • LLM Integration • AI Prompt Engineering • ML Basics • Natural Language Processing
+      </p>
+    </div>
+
+    <!-- Category: Cloud & DevOps -->
+    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
+      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Cloud & DevOps</h3>
+      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+        Vercel • Firebase • GitHub • Git • Docker • CI/CD • Environment Management • Deployment
+      </p>
+    </div>
+
+    <!-- Category: Tools & Practices -->
+    <div style="border: 1px solid rgba(37, 99, 235, 0.3); border-radius: 12px; padding: 24px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9), rgba(17, 24, 39, 0.95));">
+      <h3 style="color: #38BDF8; font-size: 16px; margin-bottom: 16px; font-weight: 600; text-transform: uppercase;">Tools & Practices</h3>
+      <p style="color: #cbd5e1; font-size: 14px; line-height: 1.8; margin: 0;">
+        VS Code • Linux • Figma • npm • Debugging • Testing • Code Review • Documentation • Clean Code
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<br>
+<br>
+
+<!-- Divider -->
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" max-width="1200"/>
+</div>
+
+<br>
+
+<!-- GitHub Analytics -->
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+  <h2 style="text-align: center; color: #ffffff; margin-bottom: 40px;">GitHub Activity</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin-bottom: 40px;">
+
+    <!-- GitHub Stats -->
+    <div style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=muddasirhayat&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&text_color=cbd5e1" alt="GitHub Stats" style="width: 100%; border-radius: 12px;"/>
+    </div>
+
+    <!-- Top Languages -->
+    <div style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddasirhayat&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&text_color=cbd5e1" alt="Top Languages" style="width: 100%; border-radius: 12px;"/>
+    </div>
+
+  </div>
+
+  <!-- Streak Stats -->
+  <div style="text-align: center; margin-bottom: 40px;">
+    <img src="https://streak-stats.demolab.com?user=muddasirhayat&theme=tokyonight&hide_border=true&background=0F172A&stroke=2563EB&ring=38BDF8&fire=8B5CF6" alt="GitHub Streak" style="width: 100%; max-width: 500px; margin: 0 auto; border-radius: 12px; display: block;"/>
+  </div>
+
+  <!-- Activity Graph -->
+  <div style="text-align: center;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muddasirhayat&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=2563eb&point=38bdf8&line=8b5cf6" alt="Activity Graph" style="width: 100%; border-radius: 12px;"/>
+  </div>
 
 </div>
 
----
+<br>
+<br>
 
-# ⭐ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🚀 **Capverse** | Open-source AI caption generation platform |
-| 🎮 **Tic-Tac-Toe AI** | JavaScript game with Minimax |
-| 💱 **Currency Converter** | Modern exchange rate application |
-| 🎨 **ModernAuth** | Authentication UI experiments |
-| 🌐 **Portfolio** | Personal portfolio |
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muddasirhayat&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddasirhayat&layout=compact&hide_border=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=muddasirhayat&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muddasirhayat&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muddasirhayat&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
-
-<details>
-<summary>🐍 Contribution Snake</summary>
-
-![](https://raw.githubusercontent.com/muddasirhayat/muddasirhayat/output/github-contribution-grid-snake-dark.svg)
-
-</details>
-
----
-
-# 🎯 2026 Goals
-
-- Build impactful open-source software
-- Ship AI-powered products
-- Master scalable backend architecture
-- Contribute consistently to GitHub
-- Share knowledge with the developer community
-
----
-
+<!-- Divider -->
 <div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" max-width="1200"/>
+</div>
 
-### "Build software that solves real problems."
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563eb,100:0f172a"/>
+<!-- Connect Section -->
+<div style="max-width: 1200px; margin: 0 auto; padding: 0 20px; text-align: center;">
+  <h2 style="color: #ffffff; margin-bottom: 10px;">Let's Connect</h2>
+  <p style="color: #94a3b8; font-size: 15px; margin-bottom: 30px;">Have an idea? Want to collaborate? Feel free to reach out.</p>
+  
+  <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; margin-bottom: 40px;">
+    
+    <a href="https://github.com/muddasirhayat" style="padding: 12px 24px; background: linear-gradient(135deg, #2563EB, #38BDF8); color: white; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; transition: all 0.3s ease; display: inline-block;">
+      GitHub
+    </a>
+    
+    <a href="https://www.linkedin.com/in/muddasir-hayat-170017276/" style="padding: 12px 24px; background: linear-gradient(135deg, #8B5CF6, #2563EB); color: white; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; transition: all 0.3s ease; display: inline-block;">
+      LinkedIn
+    </a>
+    
+    <a href="mailto:mhsons2025@gmail.com" style="padding: 12px 24px; background: linear-gradient(135deg, #38BDF8, #8B5CF6); color: white; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; transition: all 0.3s ease; display: inline-block;">
+      Email
+    </a>
 
+  </div>
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="assets/footer.svg" alt="" width="100%" max-width="1200"/>
 </div>

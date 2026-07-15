@@ -1,0 +1,39 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" class="w-full">
+  <defs>
+    <linearGradient id="frameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color: #2563EB"/>
+      <stop offset="50%" style="stop-color: #38BDF8"/>
+      <stop offset="100%" style="stop-color: #8B5CF6"/>
+    </linearGradient>
+    <style>
+      @keyframes rotate {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      .rotating { animation: rotate 20s linear infinite; }
+    </style>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Animated rotating border -->
+  <g class="rotating" transform-origin="100 100">
+    <circle cx="100" cy="100" r="95" fill="none" stroke="url(#frameGrad)" stroke-width="3" opacity="0.8"/>
+  </g>
+
+  <!-- Static frame -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#2563EB" stroke-width="1" opacity="0.3"/>
+
+  <!-- Corner accents -->
+  <g opacity="0.6" fill="#38BDF8">
+    <rect x="15" y="15" width="3" height="15"/>
+    <rect x="15" y="15" width="15" height="3"/>
+    <rect x="185" y="15" width="3" height="15"/>
+    <rect x="170" y="15" width="15" height="3"/>
+    <rect x="15" y="185" width="3" height="-15"/>
+    <rect x="15" y="182" width="15" height="3"/>
+    <rect x="185" y="185" width="3" height="-15"/>
+    <rect x="170" y="182" width="15" height="3"/>
+  </g>
+</svg>

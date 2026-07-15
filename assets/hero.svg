@@ -1,0 +1,85 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" class="w-full">
+  <defs>
+    <style>
+      @keyframes gradientShift {
+        0%, 100% { stop-color: #2563EB; }
+        50% { stop-color: #8B5CF6; }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-20px); }
+      }
+      @keyframes glow {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.8; }
+      }
+      @keyframes pulse {
+        0%, 100% { r: 2px; }
+        50% { r: 4px; }
+      }
+      .hero-text { font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 700; letter-spacing: -1px; }
+      .subtitle-text { font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 400; }
+      .floating { animation: float 6s ease-in-out infinite; }
+      .glowing { animation: glow 3s ease-in-out infinite; }
+      .particle { animation: pulse 2s ease-in-out infinite; }
+    </style>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color: #2563EB; stop-opacity: 1">
+        <animate attributeName="stop-color" values="#2563EB;#8B5CF6;#2563EB" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color: #38BDF8; stop-opacity: 1">
+        <animate attributeName="stop-color" values="#38BDF8;#2563EB;#38BDF8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#0F172A"/>
+
+  <!-- Animated background gradient shapes -->
+  <g class="glowing">
+    <circle cx="100" cy="50" r="80" fill="url(#heroGrad)" opacity="0.1" filter="url(#blur)"/>
+  </g>
+  <g class="glowing" style="animation-delay: 1s;">
+    <circle cx="1100" cy="250" r="100" fill="#8B5CF6" opacity="0.08" filter="url(#blur)"/>
+  </g>
+
+  <!-- Floating particles -->
+  <g class="floating">
+    <circle cx="150" cy="100" r="3" fill="#38BDF8" class="particle" opacity="0.6"/>
+    <circle cx="200" cy="150" r="2" fill="#2563EB" class="particle" opacity="0.4"/>
+    <circle cx="250" cy="120" r="2.5" fill="#38BDF8" class="particle" opacity="0.5"/>
+  </g>
+
+  <!-- Main text with gradient -->
+  <g filter="url(#glow)">
+    <text x="600" y="120" text-anchor="middle" class="hero-text" font-size="72" fill="url(#heroGrad)">
+      Muhammad Muddasir Hayat
+    </text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="600" y="170" text-anchor="middle" class="subtitle-text" font-size="24" fill="#CBD5E1" opacity="0.9">
+    Full Stack Engineer • AI Applications
+  </text>
+
+  <!-- Status indicator -->
+  <g>
+    <circle cx="1050" cy="40" r="12" fill="#111827" stroke="#38BDF8" stroke-width="2"/>
+    <circle cx="1050" cy="40" r="6" fill="#38BDF8" class="particle"/>
+  </g>
+  <text x="970" y="48" class="subtitle-text" font-size="14" fill="#94A3B8">Open to opportunities</text>
+
+  <!-- Decorative line -->
+  <line x1="300" y1="220" x2="900" y2="220" stroke="url(#heroGrad)" stroke-width="2" opacity="0.3"/>
+</svg>
