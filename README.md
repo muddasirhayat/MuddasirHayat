@@ -26,7 +26,7 @@
 
 💬 Ask me about **JavaScript, UI/UX, Animations**
 
-📫 Reach me at **mhsons2025@gmail.com**
+📫 Reach me at **pmudasir54@gmail.com**
 
 ⚡ Fun fact: I love **smooth, clean interfaces and performance-focused code**
 
